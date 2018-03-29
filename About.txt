@@ -1,0 +1,5 @@
+Created By: Richard Kang
+
+To run this program:
+javac *.java
+java Driver testFile
